@@ -58,7 +58,7 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
 
 <h3 align="center">🔆 Certificados</h3>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/cert1.png" alt="UOM Logo" width="350" height="180" style="border-radius: 10px;">
+    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/cert3.png" alt="UOM Logo" width="350" height="180" style="border-radius: 10px;">
     <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/cert1.png" alt="HGS Logo" width="350" style="border-radius: 10px;">
 </div>
 
