@@ -58,10 +58,9 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
 
 <h3 align="center">🔆 Certificados</h3>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/certestacio.png" alt="UOM Logo" width: 350px height: 180px>
-    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/certestacio.png" alt="HGS Logo" width: 350px height: 180px>
+    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/certestacio.png" alt="UOM Logo" width="350" height="180">
+    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/ebac.png" alt="HGS Logo" idth="350" height="180">
 </div>
-
 <!-- lang-->
 <h3 align="center">📚 Idiomas e ferramentas </h3>
 <br/>
@@ -80,6 +79,16 @@ Também realizo transmissões ao vivo de codificação 🎥, explorando novos co
         <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=viagens_cards&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
+
+<!-- git stat-->
+<h3 align="center">⚡ Github Status</h3>
+<br>
+<div align="center">
+<img width="380" src="https://github-readme-stats.vercel.app/api?username=ErikaCZanin&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10"/>
+<img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaCZanin&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
+
+<br/><br/>
 
 ## 💫 Curiosidades sobre Mim
 
