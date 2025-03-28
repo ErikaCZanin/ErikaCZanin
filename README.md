@@ -2,13 +2,15 @@
 
 😉 Não sei exatamente como você chegou aqui, mas vou compartilhar um pouco sobre mim. 
 
-## 🌟 Informações Públicas
+## 🚀 Sobre mim  
 
-Meu nome é **Erika Zanin**. Atualmente, moro em **Florianópolis-SC** e meu objetivo é ajudar outros desenvolvedores a alcançar seus sonhos e metas. 🚀
+Olá! Sou **Erika Zanin** e minha paixão por tecnologia me levou a focar no **desenvolvimento front-end**. 💻✨  
+Desde **2023**, venho aprimorando minhas habilidades por meio de **estudos** 📚 e **projetos práticos** 🎨, sempre explorando **código limpo**, **usabilidade** e **boas práticas**.  
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde **2023** venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+No meu tempo livre, gosto de transformar conhecimento em prática, criando soluções inovadoras e explorando novas tecnologias. 🚀💡  
+Acredito que a **aprendizagem contínua** 🔄 e a **experimentação** 🛠️ são essenciais para crescer na área, e estou sempre em busca de desafios que me permitam evoluir como desenvolvedora.  
 
-Também realizo transmissões ao vivo de codificação 🎥, explorando novos conceitos e ensinando de forma interativa, promovendo o conceito de "aprender em público". Além disso, escrevo artigos e produzo vídeos, experiências que têm sido transformadoras na minha trajetória como desenvolvedor(a). ✍️📹
+Vamos conectar? 🤝💬
 
 <div align="right">
   <div>
