@@ -77,8 +77,8 @@ Vamos conectar? 🤝💬
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/ErikaCZanin/viagens_cards">
         <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=viagens_cards&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    <a href="https://github.com/ErikaCZanin/viagens_cards">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=viagens_cards&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
+    <a href="https://github.com/ErikaCZanin/siteCafe">
+        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=siteCafe&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
     </a>
 </div>
 
