@@ -4,10 +4,10 @@
 
 ## 🚀 Sobre mim  
 
-Olá! Sou **Erika Zanin** e minha paixão por tecnologia me levou a focar no **desenvolvimento front-end**. 💻✨  
+Olá! Sou **Erika Zanin** e minha paixão por tecnologia me levou a focar no **desenvolvimento front-end** 💻✨  
 Desde **2023**, venho aprimorando minhas habilidades por meio de **estudos** 📚 e **projetos práticos** 🎨, sempre explorando **código limpo**, **usabilidade** e **boas práticas**.  
 
-No meu tempo livre, gosto de transformar conhecimento em prática, criando soluções inovadoras e explorando novas tecnologias. 🚀💡  
+No meu tempo livre, gosto de transformar conhecimento em prática, criando soluções inovadoras e explorando novas tecnologias 🚀💡  
 Acredito que a **aprendizagem contínua** 🔄 e a **experimentação** 🛠️ são essenciais para crescer na área, e estou sempre em busca de desafios que me permitam evoluir como desenvolvedora.  
 
 Vamos conectar? 🤝💬
