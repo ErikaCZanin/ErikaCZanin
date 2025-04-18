@@ -68,8 +68,8 @@ Vamos conectar? 🤝💬
 
 <div align="center">
   <h3>⭐️ Top Repositories</h3>
-
-
+<br>
+  
 <span>[![Vercel Deployment](https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=viagens_cards&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)](https://github.com/ErikaCZanin/viagens_cards)  </span>
 <span>[![Vercel Deployment](https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=siteCafe&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)](https://github.com/ErikaCZanin/siteCafe)  </span>
 <span>[![Vercel Deployment](https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=jogosImersaoAlura_042025&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)](https://github.com/ErikaCZanin/jogosImersaoAlura_042025)  </span>
