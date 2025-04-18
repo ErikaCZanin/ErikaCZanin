@@ -68,7 +68,7 @@ Vamos conectar? 🤝💬
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,bootstrap,htmx,python,javascript,mysql,vscode" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,github,git,htmx,postman,figma,react" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,github,git,postman,figma,react" /><br>
 </div>
 <br/>
 
@@ -98,7 +98,7 @@ Vamos conectar? 🤝💬
     <div>🎉 Sou apaixonado(a) por astronomia 🎉</div>
     <div>💡 Comecei a programar em <strong>2023</strong> e, desde então, venho me desafiando e aprendendo coisas novas.</div>
     <div>🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.</div>
-    <div>🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.</div>
+    <div>🌐 Tenho experiência em diversos projetos, desde de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.</div>
 </div>
 
 ---
