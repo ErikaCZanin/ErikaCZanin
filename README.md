@@ -16,17 +16,11 @@ Vamos conectar? 🤝💬
   <div>
     🌟 <strong>Contato</strong>  
   </div>
-  <div>
-    <a href="mailto:erikaczbu@gmail.com">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/erikaczanin">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a> 
-    <a href="https://api.whatsapp.com/send?phone=55489999202985"> 
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    </a>
-  </div>
+
+<span>[![Vercel Deployment](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikaczbu@gmail.com)  </span>
+<span>[![Vercel Deployment](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikaczanin) </span> 
+<span>[![Vercel Deployment](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55489999202985) </span>
+
 </div>
 
 ## 📝 Informações Detalhadas
@@ -74,16 +68,11 @@ Vamos conectar? 🤝💬
 
 <div align="center">
   <h3>⭐️ Top Repositories</h3>
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/ErikaCZanin/viagens_cards">
-        <img width=395 src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=viagens_cards&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    <a href="https://github.com/ErikaCZanin/siteCafe">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=siteCafe&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-<a href="https://github.com/ErikaCZanin/jogosImersaoAlura_042025">
-        <img width="395" src="https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=jogosImersaoAlura_042025&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-    </a>
-</div>
+
+
+<span>[![Vercel Deployment](https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=viagens_cards&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)](https://github.com/ErikaCZanin/viagens_cards)  </span>
+<span>[![Vercel Deployment](https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=siteCafe&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)](https://github.com/ErikaCZanin/siteCafe)  </span>
+<span>[![Vercel Deployment](https://github-readme-stats.vercel.app/api/pin/?username=ErikaCZanin&repo=jogosImersaoAlura_042025&theme=light&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)](https://github.com/ErikaCZanin/jogosImersaoAlura_042025)  </span>
 
 <!-- git stat-->
 <h3 align="center">⚡ Github Status</h3>
