@@ -54,8 +54,8 @@ Vamos conectar? 🤝💬
 
 <h3 align="center">🔆 Certificados</h3>
 <div align="center" style="display: flex; gap: 10px; justify-content: center;">
-    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/certestacio.png" alt="UOM Logo" width="350" height="180">
-    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/ebac.png" alt="HGS Logo" idth="350" height="180">
+    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/certestacio.png" alt="Estacio Logo" width="350" height="180">
+    <img src="https://github.com/ErikaCZanin/ErikaCZanin/blob/main/ebac.png" alt="Ebac Logo" idth="350" height="180">
 </div>
 <!-- lang-->
 <h3 align="center">📚 Idiomas e ferramentas </h3>
